@@ -1,0 +1,40 @@
+.first{
+  width:1340px;
+  height:70px;
+  background-color:#8FBC8F;
+  position:fixed;
+  border-radius:3px;
+}
+.about{background-color:218,165,32}
+  ul li {display:inline-block;float:left;text-transform:capitalize}
+
+ ul li:hover{background-color:#E9967A}
+
+.second h1{text-indent:30px
+}
+
+.ha{background-image:url("has.jpg");background-size:100% 100%;padding:100px;
+background-attachment:fixed;height:400px}
+
+.na{background:#E9967A;width:1000px;max-height:9%;font-size:25px;margin:40px;border-radius:3px;overflow:hidden}
+.na:hover{min-height:50%}
+.m::after{content:"this div is hoverd";
+background-color:rgba(255, 0, 0, 0.5);margin:40px;padding:20px;min-height:80px;min-width:1000px;position:absolute}
+.om{background-image:url("2.jpg");background-size:100% 90%;padding:100px;
+;background-repeat:no-repeat}
+.about,.blog,.projects,.contact
+{position:fixed;left:-60px;padding:8px;margin:10px;width:70px;height:20px}
+.about:hover,.blog:hover,.projects:hover,.contact:hover {width:90px;left:0px}
+.about{top:90px;background-color:#90EE90;}
+.blog{top:130px;background-color:#48D1CC}
+.projects{top:170px;background-color:#A0522D}
+.contact{top:210px;background-color:#FFB6C1}
+.r{background-color:rgba(255, 0, 0, 0.5);width:900px;height:500px;margin:6px}
+div.r p{background-color:#F0E68C;width:700px;height:30px; margin:30px;transform:capitalize}
+div.r div{background-color:#9ACD32;width:700px;height:30px; margin:30px;transform:capitalize}
+div.r div:hover{background-color:#8B4513}
+.pic{background-image:url("t.jpg");background-size:100% 50% ;padding:100px;
+;height:300px;background-repeat:no-repeat}
+.hr{background-color:rgba(255, 0, 0, 0.5);width:1000px;height:90px;margin:1px;padding:3px}
+.hr::first-line{background-color:#708090}
+.hr:first-letter{font-size:30px;font-weight:bold;background-color:#DAA520;border-radius:6px}
