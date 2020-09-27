@@ -1,0 +1,108 @@
+
+.clearfix{clear: both;}
+{box-sizing:border-box}
+
+.container{margin:auto;width:1100px;padding-top:30px;padding-bottom:30px;;}
+.slider{height:450px;}
+
+.slider .container{margin:auto;width:1100px}
+
+.slider .t {text-align:center;color:#fff;padding-top:50px;}
+.slider .t h2 {margin:0 auto ;width:600px;font-size:50px;
+  border-top:3px solid #fff;
+  border-bottom:3px solid #fff;
+  padding:5px
+}
+.slider .t button{background:none;margin-top:20px;padding:10px 5px;}
+
+
+
+ .navbar .container{margin:auto;width:1100px}
+
+ .navbar{background-color:#444;overflow:hidden;}
+
+ .navbar h2{float:left;text-transform:uppercase}
+
+ .navbar h2 span{color:greenyellow}
+
+
+ .navbar ul{list-style:none;float:right}
+
+ 
+ .navbar ul li {padding:10px;float:left}
+
+ .navbar ul li a{color:#fff;text-decoration:none;}
+
+  .navbar ul li.active a,
+  .navbar ul li a:hover{color:greenyellow}
+
+  .this .container{margin:auto;width:1700px;padding-top:30px;padding-bottom:30px;;}
+
+
+  .images { background-color:#d6d6b3;padding-top:30px;scroll-padding-bottom:30px;height:400px;}
+  
+   .info{float:left;text-align:left;width:60%}
+
+   .hopes{margin:20px;float:left;width:50%;min-height:100p;}
+
+   .my .container{margin:auto;width:1100px;}
+
+   .skilles{padding-top:20px;padding-bottom:20px;background-color:#F5F5DC;
+    height:330px;width:50%;display:inline-block}
+
+   .promles {padding-top:20px;padding-bottom:20px;background-color:#F5F5DC;
+    height:250px;width:40%;display:inline-block;}
+
+  .skilles .promles{float:left;width:40%}
+
+  .big div .container{margin:auto;width:1100px}
+
+  .big div{background-color:#F5F5DC;text-align:center;}
+  
+  .education{padding-top:20px;padding-bottom:20px;
+    height:130px;width:50%;display:inline-block;float:left;}
+
+    .h2{padding-top:20px;padding-bottom:20px;
+    height:130px;width:45%;display:inline-block;float:left;} 
+ 
+    .test1 .container{margin:auto;width:1100px}
+    
+    .test1{background-color:#666;text-align:center;}
+
+    .portoflio{padding-bottom:30px;padding-top:30px;text-align:center;}
+
+   .portoflio .our-work{overflow: hidden;}
+
+   .portoflio .our-work > div {float:left;width:33.333333%;margin-bottom:15px;}
+
+   .portoflio .our-work > div img {width:70%;margin:10px}
+
+   .con .container{margin:auto;width:1100px;background-color: wheat;height:200px;}
+   
+.hopes ul li{margin:10px 20px 10px 0px;width:50%;overflow: hidden;;}
+
+
+.my .skilles  h2 {margin:25px 5px 20px 40px;}
+
+.my .skilles p{margin:25px 5px 20px 40px;line-height:1,5px;}
+
+.my .skilles .my-button{background:none;border:3px solid #7FFF00;padding:10px 10px 0px 10px;
+  margin-left:40px;margin-top:40px;line-height:25px}
+
+.my .skilles .promles .tec h3{color:#555;margin-left:40px}
+
+
+.rel {background-color:#afa5a5d5;height:25px;}
+
+.span{background-color: lightskyblue;height:25px;display:block;
+text-align: right;height:25px;line-height: 25px;font-weight: bold;}
+
+
+.span2{background-color: lightskyblue;height:25px;display:block;
+  text-align: right;height:25px;line-height: 25px;font-weight: bold;}
+ 
+
+  .span3{background-color: lightskyblue;height:25px;display:block;
+    text-align: right;height:25px;line-height: 25px;font-weight: bold;}
+
+   .p{line-height:2px;color:#555}
