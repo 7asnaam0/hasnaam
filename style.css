@@ -1,0 +1,68 @@
+body{
+    background: #DCDCDC;
+}
+
+.h3{
+ float:center;
+}
+
+.form{
+    background-color:#FFF0F5;
+    width: 40%;
+    height:450px;
+    margin-left:30%;
+    border: 2px double #808080;
+    overflow: hidden;
+}
+ .form input 
+ {
+     margin:5px 10px;
+ }
+
+ .form h2 {
+     margin:10px 10px;
+      text-align: center;
+     font-style: italic;
+     font-weight: bold;
+ }
+.iframe{
+    text-align-last: center;
+    border-radius: 10px;
+
+}
+ .h3{
+    text-align: center;
+    color:cadetblue;
+
+}
+ .table {
+   margin-left:35%;
+ border: 2px double #FFF0F5;
+ width: 400px ;
+ height:150px;
+    
+}
+ .cap
+ {
+     font-weight: bold;
+     text-align:center;
+
+
+ }
+
+ .pic {
+     margin-left:35%;
+    
+
+
+ }
+ .last{
+    text-align: center;  
+ }
+ .pr {
+     background-color: darkgray;
+     line-height:20px;
+     border-radius: 10px;
+
+ }
+ 
